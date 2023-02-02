@@ -1,4 +1,4 @@
-package Bank;
+package myPack;
 
 import java.util.Scanner;
 public class Transaction 

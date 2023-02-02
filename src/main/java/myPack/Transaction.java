@@ -1,8 +1,11 @@
 package myPack;
 
 import java.util.Scanner;
+
+/*This is a Transaction class*/
 public class Transaction 
 {
+	
 	static Accounts ac[];
 	static Customer cs[];
 	static int i;
